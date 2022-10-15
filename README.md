@@ -1,5 +1,5 @@
 # Survival-Prediction-on-the-Titanic
-
+![image](https://user-images.githubusercontent.com/84344512/196007528-95d23f7c-5dd8-4083-b63b-794f09c3b7f3.png)
 ### Goal 🎯
 It is your job to predict if a passenger survived the sinking of the Titanic or not. For each in the test set, you must predict a 0 or 1 value for the variable.
 
